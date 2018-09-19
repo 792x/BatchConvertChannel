@@ -1,2 +1,8 @@
 # BatchConvertChannel
 Python script to batch convert 1 channel grayscale images into a 3 channel grayscale images.
+
+Requires: cv2, dlib, argparse, os
+
+```
+>> python app.py inputfolder outputfolder
+```
